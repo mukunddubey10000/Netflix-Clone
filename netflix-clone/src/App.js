@@ -5,6 +5,9 @@ import Row from './Row';
 import requests from './requests'
 import Banner from './Banner'
 import Nav from './Nav'
+<head>
+  <meta name="google-site-verification" content="xXgKjF50Keguyymq937y0c3FrmQTNTfr-p0gaF1UvQo" />
+</head>
 function App() {
   return (
     <div className="App">
